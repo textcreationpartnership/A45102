@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble representation of the Protestant purchasers of forfeited lands in Ireland</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45102</idno><idno type="EEBO-CITATION">99834218</idno>
+  <idno type="VID">38716</idno>
+  <idno type="EEBO-PROQUEST">2240928139</idno>
+  
+            <idno type="STC">Wing H3641B</idno>
+            <idno type="STC">ESTC T209239</idno>
+            <idno type="PROQUEST">99834218</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99834218e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45102)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38716)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1834:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble representation of the Protestant purchasers of forfeited lands in Ireland</title>
+               </titleStmt>
+               <extent>[2]p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Dublin?,</pubPlace>
+                  <date>1702?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a docket title.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:38716:1"/>
+            <head>THE Humble Representation OF THE Protestant Purchasers <hi>of Forfeited LANDS in</hi> IRELAND.</head>
+            <p>THE Protestant Purchasers of Forfeited Lands in <hi>Ireland,</hi> in a due Sense of their Gratitude, do acknowledge the Clemency of the Commons of <hi>England,</hi> in the Allowance intended to be made them of 21000 <hi>l.</hi> part of their Purchase-Money; and it is with all imaginable Respect and Duty they take Leave to represent,</p>
+            <p>That it appears by the Report of the Commissioners, (<hi>Paragr.</hi> 83.) That the Purchase-Money laid out in the said Kingdom, doth not exceed 63000 <hi>l.</hi> Money of <hi>Ireland;</hi> although the future Misery or Happiness of very many of the <hi>English</hi> Families of that Country depends thereupon.</p>
+            <p>That as the Bill is now altered, it will the extreamly difficult, if not impossible for them to recover what more shall appear, upon fair Ac<g ref="char:EOLhyphen"/>count, to be justly due to them from the Grantees, by reason some of them reside in foreign Parts, and have no Effects in these Dominions: Others may not have the Money to repay; or if they have, may, or al<g ref="char:EOLhyphen"/>ready have alienated their Estates; or they may insist on their Peerage, Privilege of Parliament, <hi>&amp;c.</hi>
+            </p>
+            <p>The said Purchasers do not in the least repine at any Mercy intended by the said Honourable House to others of the said Kingdom, who are either restored by His Majesty's Favour only, or who are by this Bill confirmed in the Benefit of any Articles:</p>
+            <p>But they most humbly hope, That the said Honourable House will also further consider the Services and Sufferings of the Protestant Pur<g ref="char:EOLhyphen"/>chasers, who beg Leave to say, That they have been Useful to <hi>England</hi> in the late Revolutions, and have been always in their Inclinations (no less than in their Interests) very far from doing any thing Intentionally (when they made their said Purchases) that might seem in Contempt of the Votes or Proceedings of that Honourable House, to which they owe so very much, and for whom they would again freely hazard all that is dear or near to them.</p>
+            <p>They hope, amongst other their Unhappinesses, they are not so Unfor<g ref="char:EOLhyphen"/>tunate as to have it thought that they desire more than their Principal-Money and Interest; But what they humbly endeavour to encline the said Honourable House to, is That they may, in Charity to the many <hi>English</hi> Protestant Families therein concerned, think fit to let them be con<g ref="char:EOLhyphen"/>sidered as Mortgagees for the Money by them <hi>bona fide</hi> paid; and as such, to be accountable from the times their respective Purchases were made; in which case the Purchasers will be allow'd from be beginning but bare Interest for their Money.</p>
+            <pb facs="tcp:38716:2"/>
+            <p>And although the Purchasers will in such case be considerably Losers, yet their entire Ruin will be thereby prevented, and the Publick will reap from them the Benefit, of,</p>
+            <p n="1">1. What the Purchasers in divers Cases expended in making out the Title of the Crown, and evicting pretended Titles.</p>
+            <p n="2">2. The Benefit or Advantage of all Bargains, where the Purchasers have bought off prior Incumbrances at easie Rates.</p>
+            <p n="3">3. The Advantage of having so great a Part of the Country Improved and Inhabited, which was Wasted and Depopulated by the late long and destructive War, which renders the said Lands of near double the Value they were formerly of.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <p>THE Humble Representation OF THE Protestant Purchasers <hi>of Forfeited Lands in</hi> Ire<g ref="char:EOLhyphen"/>land.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
